@@ -1,0 +1,30 @@
+{
+    "name": "text",
+    "version": "1.0.0",
+    "description": "这是我的案例",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lanjianjian0321/text.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lanjianjian0321/text/issues"
+    },
+    "homepage": "https://github.com/lanjianjian0321/text#readme",
+    "dependencies": {
+        "gulp-sass": "^4.0.2",
+        "gulp-clean-css": "*",
+        "gulp-uglify": "*",
+        "gulp-babel": "^7.0.0",
+        "babel-core": "*",
+        "babel-preset-es2015": "*",
+        "gulp-htmlmin": "*",
+        "gulp-webserver": "*"
+    }
+}
